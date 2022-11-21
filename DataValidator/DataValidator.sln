@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataValidator", "DataValidator\DataValidator.csproj", "{DE85CA46-6948-4055-AAF4-221EB7ECB6B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataValidator.Tests", "DataValidator.Tests\DataValidator.Tests.csproj", "{C967D278-B9BC-4BDB-9C4D-33E442099003}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE85CA46-6948-4055-AAF4-221EB7ECB6B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE85CA46-6948-4055-AAF4-221EB7ECB6B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE85CA46-6948-4055-AAF4-221EB7ECB6B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE85CA46-6948-4055-AAF4-221EB7ECB6B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C967D278-B9BC-4BDB-9C4D-33E442099003}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C967D278-B9BC-4BDB-9C4D-33E442099003}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C967D278-B9BC-4BDB-9C4D-33E442099003}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C967D278-B9BC-4BDB-9C4D-33E442099003}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A45F911-5296-4475-9FE2-3CE724210A23}
+	EndGlobalSection
+EndGlobal
